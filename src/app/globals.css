@@ -24,4 +24,5 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+  @apply prose prose-neutral dark:prose-invert lg:prose-xl;
 }
